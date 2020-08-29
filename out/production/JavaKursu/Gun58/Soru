@@ -1,0 +1,18 @@
+1.Bölüm
+  içinde taste() bir interface yazınız.
+  double ucret()
+
+2.Bölüm de
+Aşağıdaki metodları olan classları yazınız.food dan implemente alarak
+
+AdanaKebab: marinade(), grill()
+Lahmacun: dough(), topping(), bake()
+Borsh: boil()
+Palov: fry(), boil()
+
+3. bolum
+TechnoCafe isimli class da ki main methodunda kullanıcıya menuyu sunarak,
+kullanıcı tamam secenegini secene kadar yemek siparisini alınız.
+bu yemekleri bir ArrayList e ekleyiniz.
+
+4.

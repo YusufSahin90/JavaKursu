@@ -1,0 +1,6 @@
+Ekteki Tasarıma göre gerekli modülleri yazınız.
+Sonra bir main metodunda, TeslaCar dan, ToyotaPirus dan ve cityBus dan
+birer nesne üretiniz.
+
+- urettiginiz nesneleri bir ArrayListe ekletip,
+daha sonra bu ArrayList i bir dongu ile classname lerini ekrana yazıdırnız.

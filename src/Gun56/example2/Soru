@@ -1,0 +1,2 @@
+1- id, name, vahsi(boolean), dogumTarihi(LocalDate) fieldları olan ve yiyecegi, yemeMiktarı, gunlukUykuSuresi ve sesi isimlerinde abstract methodları,
+toString şeklinde normal methodu ve get ve set leri olan hayvan isminde bir abstract class yazınız.

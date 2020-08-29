@@ -1,0 +1,5 @@
+1- içinde name field ı ve boş constructor olan sekil isimli bir Abstract class yazınız.
+2- Bu class ın alan ve cevre abstract methodları ve içinde alan ve cevre nin sonucu olan toString somut methodu,
+    sekilin adını veren getName somut methodu ve çiz isimli somut methodlarını ekleyiniz.
+3- bu sınıftan dikdortgen ve cember isimli 2 class olusturunuz.
+4- bunlardan birer ornek main methodunda calıstırınız.
